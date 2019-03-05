@@ -16,5 +16,5 @@ Ongoing
 Online Links
 
     1.Microservices
-        1. https://dzone.com/articles/design-patterns-for-microservices
-        2. https://microservices.io/patterns/microservices.html
+        1. <a href="https://dzone.com/articles/design-patterns-for-microservices">Design Patterns for Microservices</a>
+        2. <a href="https://microservices.io/patterns/microservices.html">Microservices.io</a>
