@@ -5,11 +5,13 @@ Completed, On going study list
 ## Ongoing
 
    ##### Blockchain
-   - [ ] Beginning Blockchain by Bikramaditya Singhal, Gautam Dhameja, Priyansu Sekhar Panda 
-   
+   - [ ] Beginning Blockchain by Bikramaditya Singhal, Gautam Dhameja, Priyansu Sekhar Panda    
    ##### Enterprise Architecture
    - [ ] TOGAF 9.2
-   - [ ] ArchiMate 3
+   - [ ] ArchiMate 3   
+   ##### Data Sceince
+   - [ ] Think Like a Data Scientist by Brain Godsey
+
        
 
       
