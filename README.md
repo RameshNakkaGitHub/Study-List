@@ -11,6 +11,10 @@ Completed, On going study list
    - [ ] ArchiMate 3   
    ##### Data Sceince
    - [ ] Think Like a Data Scientist by Brain Godsey
+   ##### Frameworks
+   - [ ] Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools
+   ##### Languages
+   - [ ] Introduction to Programming and Problem-Solving Using Scala, 2nd Edition by Mark C.Lewis
 
        
 
