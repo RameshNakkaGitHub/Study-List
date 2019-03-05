@@ -2,5 +2,12 @@
 Completed, On going study list
 
 
-Blockchain
-  1. Beginning Blockchain by Bikramaditya Singhal, Gautam Dhameja, Priyansu Sekhar Panda
+Ongoing :
+    Blockchain
+      1. Beginning Blockchain by Bikramaditya Singhal, Gautam Dhameja, Priyansu Sekhar Panda
+      
+    Enterprise Architectre
+      1. TOGAF 9.2
+      2. ArchiMate 3.0
+      
+   
