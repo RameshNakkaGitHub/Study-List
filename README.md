@@ -13,3 +13,8 @@ Ongoing
 
       
    
+Online Links
+
+    1.Microservices
+        1. https://dzone.com/articles/design-patterns-for-microservices
+        2. https://microservices.io/patterns/microservices.html
